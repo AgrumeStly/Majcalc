@@ -107,7 +107,7 @@
 
       <div>
         <p>
-            本项目采用 Vue 构建，核心逻辑使用 JavaScript 实现，并在 Github 上开源。项目地址 <a href="https://github.com/linlexiao0/mahjong-vue">https://github.com/linlexiao0/mahjong-vue</a>。欢迎提出 Pull Requests 或 Fork 你自己的版本！
+          原始开源项目地址 <a href="https://github.com/linlexiao0/mahjong-vue">https://github.com/linlexiao0/mahjong-vue</a>。
         </p>
 
         <p>
@@ -117,20 +117,7 @@
         <p>
           支持对某些规则进行自定义（旁边的按钮）。现在可以自定义的规则有：食断，是否计多倍役满、复合役满，连凤雀头符数，是否计累计役满。
         </p>
-
-        <p>
-          如果有什么意见和想法，可以在 Github 上提出 Issue，或也可以联系我的邮箱 <a href="mailto://linlexiao2007@outlook.com">linlexiao2007@outlook.com</a>。
-        </p>
-
         
-        <p>
-          目前的计划（按重要性排序）：
-          <ol>
-            <li>改进 UI</li>
-            <li>将项目迁移到TypeScript</li>
-            <li>编写测试用例</li>
-          </ol>
-        </p>
       </div>
 
     </n-modal>

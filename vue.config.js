@@ -5,7 +5,7 @@
 // })
 
 module.exports = {
-  publicPath:"/maj/",
+  publicPath:"/",
   chainWebpack: config=>{
     config.plugin('html').
     tap(args => {

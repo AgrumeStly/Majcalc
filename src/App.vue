@@ -22,8 +22,7 @@
     </div>
 
     <footer>            
-      <div>©2022-2023 linlexiao.com 版权所有 | 
-        <a target="_blank" href="https://beian.miit.gov.cn/"> 沪ICP备2022025418号-2</a>
+      <div>©2022-2023 agrumestly
       </div>
     </footer>
 
